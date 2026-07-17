@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.xlsx
+*.csv
+generate_sheet.py
+*.pyc
+.DS_Store
